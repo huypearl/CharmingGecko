@@ -1,4 +1,5 @@
 # CharmingGecko
 Android - First Application
 
-Using AndEngine-GLES2-AnchorCenter 
+IDE: Eclipse
+Framework:  AndEngine-GLES2-AnchorCenter 
